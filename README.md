@@ -17,7 +17,7 @@ Este dashboard busca investigar:
 - Se exames atrasados apresentam aumento relevante no TAT
 - Quais gargalos merecem investigação adicional
 
-## Indicadores Monitorados
+## KPIs Monitored
 
 - Volume de exames
 - TAT médio (Turnaround Time)
