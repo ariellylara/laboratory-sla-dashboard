@@ -1,5 +1,9 @@
 # Laboratory SLA Dashboard, Power BI
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
 ## Overview
 Dashboard desenvolvido em Power BI para monitoramento de indicadores operacionais em laboratório clínico.
 
